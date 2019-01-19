@@ -17,4 +17,4 @@ the program cleanly.
 • Doors can open.
 • Secret doors.
 • Sounds and music.
-![alt text](https://github.com/elopukh/wolf3d/blob/master/pics/pic1.png)
+![alt text](https://github.com/elopukh/wolf3d/blob/master/pics/pic2.png)
